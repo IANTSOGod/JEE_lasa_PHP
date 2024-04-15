@@ -1,0 +1,3 @@
+-Importez d'abord le fichier Blog.sql\n
+-Changez ensuite les valeurs des variables $utilisateur et $motDePasse pour pouvoir vous connecter a la base précedemment importée\n
+-Mettez dans un serveur apache et lancez dans votre navigateur préféré\n
